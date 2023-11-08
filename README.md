@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @viduycheung
-- 👀 I’m interested in front end
 - 📫 How to reach me viduy@appest.com
